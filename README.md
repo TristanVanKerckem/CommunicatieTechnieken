@@ -1,2 +1,2 @@
 # CommunicatieTechnieken
-Test Merge conflict
+Test
